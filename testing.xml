@@ -1,0 +1,36 @@
+<person id="0">
+    <name>John Smith</name>
+    <address type="home">Brooklyn, NY</address>
+<address type="work">Manhattan, NYC</address>
+    <occupation>dentist</occupation>
+</person>
+<person id=”1”>
+    <name>Ivan Petrov</name>
+    <address>Bulgaria</address>
+</person>
+<person id="2">
+    <name>Dzhem</name>
+    <address>Turkey</address>
+    <occupation>developer</occupation>
+</person>
+<person id="3">
+    <name>Messi</name>
+    <address>Barcelona</address>
+    <occupation>football player</occupation>
+</person>
+<person id="4">
+    <name>Radina</name>
+    <address>Bulgaria</address>
+    <occupation>human resources</occupation>
+</person>
+<person id="6">
+    <name>Simeon</name>
+    <address>Poland</address>
+    <occupation>clerk</occupation>
+</person>
+
+
+
+
+
+
